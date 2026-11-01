@@ -1,0 +1,21 @@
+{
+  "name": "cakes-website",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~7.0.2",
+    "vite": "^8.3.5"
+  },
+  "dependencies": {
+    "framer-motion": "^14.9.0",
+    "lucide-react": "^1.66.0",
+    "react-router-dom": "^7.18.5",
+    "swiper": "^14.4.0"
+  }
+}
